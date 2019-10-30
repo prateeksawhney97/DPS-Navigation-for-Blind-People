@@ -10,6 +10,8 @@
 ### Technology I am interested in!
 
 
+![1_91434ewx0FEu7JD-D-Dw7A](https://user-images.githubusercontent.com/34116562/67871626-aaa1cb00-fb56-11e9-9a97-e3279a0692aa.png)
+
 
 ##### There is an Android application that continuously records video of the surrounding in front of the blind person. There is a Machine Learning model that is running continously in the backend that recognises various objects like Tables, Stairs, chairs, etc. and gives output to the user whenever there is something in front of him/her. The output is in the form of a beep or alteration can be made to give the output as a voice message of what the object really is!
 
